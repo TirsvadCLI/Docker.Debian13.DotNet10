@@ -52,7 +52,7 @@ Common issues:
 - `docker-compose.yml` — minimal compose file for local development
 
 ## 📜 License
-This project is licensed under the [AGPL License].
+This project is licensed under the [License Url].
 
 <!-- Links -->
 [Docker Pulls Shield]: https://img.shields.io/docker/pulls/tirsvad/tirsvadcli_debian13_dotnet10?style=flat-square
